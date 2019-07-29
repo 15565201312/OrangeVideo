@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.goldze:MVVMHabit:3.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/MVVMHabit-3.1.0.aar/16061990060ea8876e3084d21048ab0d/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/MVVMHabit-3.1.0.aar/16061990060ea8876e3084d21048ab0d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/MVVMHabit-3.1.0.aar/16061990060ea8876e3084d21048ab0d/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.goldze/MVVMHabit/3.1.0/80009c883365c26a66cab5b4333f4fcf1071ce3b/MVVMHabit-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
